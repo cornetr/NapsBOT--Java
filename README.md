@@ -6,7 +6,6 @@
  
 # Aperçu du projet 
 
-![](captures/Capture_2.jpg)
 
 # Description
  
