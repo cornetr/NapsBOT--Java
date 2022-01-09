@@ -1,4 +1,4 @@
-# ( Librairie nécaissaire : Twitter4J )
+# ( Librairie nécessaire : Twitter4J )
 
 # Indication Importante
 
