@@ -3,6 +3,10 @@
 # Indication Importante
 
  Veuillez remplacer les *** dans le fichier src/twitter4j.properties par des key/token Twitter API.
+ 
+# Aperçu du projet 
+
+![](captures/Capture_2.jpg)
 
 # Description
  
