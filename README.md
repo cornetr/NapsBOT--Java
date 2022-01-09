@@ -6,9 +6,9 @@
  
 # Aperçu du projet 
 
-![](captures/Capture_1.png)
+![](captures/Capture_1.jpg)
 
-![](captures/Capture_2.png)
+![](captures/Capture_2.jpg)
 
 # Description
  
